@@ -8,11 +8,9 @@ Tạo hàng loạt proxy ipv6 từ 1 ipv4. Chú ý: Các trang web không phân 
 
 
 ## Các bước cài đặt
-[Video chi tiết]: https://youtu.be/YNL61nuh4nc, sử dụng Centos (thuê tại vultr) để cài đặt
+- Hướng dẫn: https://youtu.be/YNL61nuh4nc
 
-- Bước 1.
+Mở Terminal và chạy duy nhất 1 lệnh bên dưới
 `bash <(curl -s "https://raw.githubusercontent.com/hoan277/multi_proxy_ipv6/main/install.sh")`
-
-- Bước 2: Tải file `proxy.zip`, cấu trúc proxy: `IP4:PORT:LOGIN:PASS`
 
 Thảm khảo: Quậy Vlog
