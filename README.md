@@ -10,6 +10,6 @@ Tạo hàng loạt proxy ipv6 từ 1 ipv4. Chú ý: Các trang web không phân 
 `bash <(curl -s "https://raw.githubusercontent.com/hoan277/multi_proxy_ipv6/main/install.sh")`
 
 ## Video hướng dẫn
-- https://youtu.be/YNL61nuh4nc
+[![Video hướng dẫn](https://img.youtube.com/vi/YNL61nuh4nc/0.jpg)](https://www.youtube.com/watch?v=YNL61nuh4nc)
 
 Thảm khảo: Quậy Vlog
