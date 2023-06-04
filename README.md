@@ -6,11 +6,10 @@ Tạo hàng loạt proxy ipv6 từ 1 ipv4. Chú ý: Các trang web không phân 
 - Centos 7
 - Ipv6 \64
 
-
-## Các bước cài đặt
-- Hướng dẫn: https://youtu.be/YNL61nuh4nc
-
-Mở Terminal và chạy duy nhất 1 lệnh bên dưới
+## Chạy duy nhất 1 dòng lệnh trong Terminal
 `bash <(curl -s "https://raw.githubusercontent.com/hoan277/multi_proxy_ipv6/main/install.sh")`
+
+## Video hướng dẫn
+- https://youtu.be/YNL61nuh4nc
 
 Thảm khảo: Quậy Vlog
